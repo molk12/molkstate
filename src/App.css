@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.descr {
+  text-align: center;
+}
+
+.descr h1 {
+  font-family: sans-serif;
+  font-size: 50px;
+}
+.descr p {
+  font-family: "Times New Roman", Times, serif;
+}
+.descr img {
+  width: 500px;
+  height: 500px;
+}
+.countt {
+background-color: peru;
+
+
+}
